@@ -1,0 +1,6 @@
+#!/bin/sh
+wget -O tests/Models/data/club-history.html https://www.vorarlbergtennis.at/liga/vereine/verein/begegnungen/v/30015.html
+wget -O tests/Models/data/club-overview.html https://www.vorarlbergtennis.at/play/liga/vereine/verein/v/30015.html
+wget -O tests/Models/data/club-ranking.html https://www.vorarlbergtennis.at/liga/vereine/verein/spieler/v/30015.html
+wget -O tests/Models/data/player-overview.html https://www.vorarlbergtennis.at/spieler/detail/mm/fed/VTV/pi/NU12364.html
+wget -O tests/Models/data/team-overview.html https://www.vorarlbergtennis.at/play/liga/vereine/verein/mannschaften/mannschaft/m/394607.html
